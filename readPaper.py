@@ -15,31 +15,30 @@ def pdf_to_text(file_path):
 
 def pdf_to_tables(file_path):
     # Extract tables fro PDF file
-    tables = tabula.read_pdf(file_path, multiple_tables=True, guess=False, stream=True, pages='all')
+    tables = tabula.read_pdf(file_path, multiple_tables=True, guess=True, stream=True, pages="all")
 
     print(tables)
     
     return tables
 
 
-# PDF filepath
+# PDF filepaths
 path = '/Users/talhaehtasham/Desktop/MedThread Demo/MedThreadDemo/Papers/'
-paper_title = 'Perineal talc exposure and epithelial ovarian cancer risk in the Central Valley of California.pdf'
-
-
-# Extract text and tables
+parsed_path = '/Users/talhaehtasham/Desktop/MedThread Demo/MedThreadDemo/ParsedPapers/'
+paper_title = 'Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC.pdf'
 file_path = path + paper_title
-#pdf_text = pdf_to_text(file_path)
-pdf_tables = pdf_to_tables(file_path)
 
+# Extract text 
+pdf_text = pdf_to_text(file_path)
 
 # Write text output to file
-#text_file = paper_title + " (TEXT).txt"
-#with open('ParsedPapers/' + text_file, 'w') as f:
-#    f.write(pdf_text)
+text_file = parsed_path + paper_title + " (TEXT).txt"
+with open(text_file, 'w') as f:
+    f.write(pdf_text)
 
-# Write table output to file
-#table_file = paper_title + " (TABLES).txt"
-#with open('ParsedPapers/' + table_file, 'w') as f:
-#    f.write(pdf_tables)
+# Extract tables
+pdf_tables = pdf_to_tables(file_path)
 
+# Write tables to CSV
+csv_file = parsed_path + paper_title + " (TABLES).csv"
+pdf_tables[0].to_csv(csv_file)

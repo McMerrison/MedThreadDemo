@@ -6,7 +6,7 @@ openai.api_key = SECRET
 
 
 messages = [ {"role": "system", "content": 
-              "You are an intelligent assistant."} ]
+              "You are an intelligent paralegal tasked with reading scientific papers to find a correlation between a commerical substance and a life-threatening disease. Read the excerpts provided and draw correlations between use of the substance and the disease."} ]
 
 while True:
     message = input("User : ")

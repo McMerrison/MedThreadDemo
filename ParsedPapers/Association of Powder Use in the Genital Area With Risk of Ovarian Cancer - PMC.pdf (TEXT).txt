@@ -1,0 +1,1103 @@
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+JAMA
+
+View Article>
+JAMA. 2020 Jan 7; 323(1): 49-59. PMCID: PMC6990816
+Published online 2020 Jan 7. doi: 10.1001/jama.2019.20079: NIHMSID: NIHMS1550080
+10.1001/jama.2019.20079 PMID: 31910280
+
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer
+
+Katie M. O’Brien, PhD" Shelley S. Tworoger, PhD, Holly R. Harris, ScD,4° Garnet L. Anderson, PhD,®
+Clarice R. Weinberg, PhD,’ Britton Trabert, PhD,® Andrew M. Kaunitz, MD,° Aimee A. D’Aloisio, PhD,'°
+Dale P. Sandler, PhD," and Nicolas Wentzensen, MD, PhD"
+
+Epidemiology Branch, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina
+2Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida
+SDepartment of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, Massachusetts
+
+4Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle,
+Washington
+5Department of Epidemiology, School of Public Health, University of Washington, Seattle
+
+6Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, Washington
+
+‘Biostatistics and Computational Biology Branch, National Institute of Environmental Health Sciences, Research
+
+Triangle Park, North Carolina
+
+8Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Rockville,
+Maryland
+°Department of Obstetrics and Gynecology, University of Florida College of Medicine-Jacksonville
+
+10Social and Scientific Systems, Inc, Durham, North Carolina
+
+11Clinical Genetics Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Rockville,
+Maryland
+XCorresponding author.
+
+Article Information
+Corresponding Author: Katie M. O’Brien, Epidemiology Branch, National Institute of Environmental Health Sciences,
+Research Triangle Park, NC, 27709 (obrienkm2@niehs.nih.gov).
+
+Accepted for Publication: November 16, 2019.
+
+Author Contributions: Dr O’Brien had full access to all of the data in the study and takes responsibility for the
+integrity of the data and the accuracy of the data analysis. Joint senior authors: Drs Sandler and Wentzensen.
+
+Concept and design: O'Brien, Tworoger, Sandler, Wentzensen.
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 1 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: O'Brien, Weinberg, Trabert, Wentzensen.
+
+Critical revision of the manuscript for important intellectual content: O'Brien, Tworoger, Harris, Anderson, Trabert,
+Kaunitz, D'Aloisio, Sandler, Wentzensen.
+
+Statistical analysis: O'Brien, Tworoger, Harris, Trabert.
+
+Obtained funding: Sandler.
+
+Aaministrative, technical, or material support: O'Brien, Tworoger, Harris, Kaunitz, D'Aloisio.
+
+Supervision: Sandler, Wentzensen.
+
+Conflict of Interest Disclosures: Dr Tworoger reported receipt of grants from the US Department of Defense
+Ovarian Cancer Research Program (OCRP) and the National Institutes of Health (NIH) both during the conduct of the
+study and outside the submitted work. Dr Anderson reported receipt of grants from the National Heart Lung Blood
+Institute (NHLBI) during the conduct of the study. Dr Kaunitz reported provision of consultancy services to the
+University of Florida, which receives research funding from companies involved with products related to contraception
+and treatment of menopausal symptoms; personal fees for consultancy services from Pfizer (injectable contraception),
+AMAG (treatment of genital atrophy), Mithra (contraceptive and menopausal hormone products), and Merck
+
+(implantable and vaginal ring contraception), but no companies involved with sales of powder; royalties from
+UpToDate; and funding for clinical trials through the University of Florida from Medicines 360 (intrauterine devices),
+Allergan (treatment of uterine fibroids), Myovant (treatment of uterine fibroids), and Endoceutics (treatment of genital
+atrophy). No other disclosures were reported.
+
+Funding/Support: This work was supported by the Intramural Research Program of NIH, National Institute of
+Environmental Health Sciences (Z01-ES044005 to Dr Sandler); the Intramural Research Program of the National
+Cancer Institute; US Department of Defense OCRP (W81XWH-12-1-0561); NIH (UM1 CA186107;, PO1 CA87969;,
+UM1 CA176726;, and RO1 CA67262 [Nurses’ Health Study {NHS} and Nurses’ Health Study II {NHSII}]); NHLBI,
+NIH/US Department of Health and Human Services (HHSN268201600018C;, HHSN268201600001C;,
+HHSN268201600002C;, HHSN268201600008C;, and HHSN268201600004C [Women’s Health Initiative
+Observational Study {WHI-OS}]); and the National Institute of Environmental Health Sciences (Sister Study [SIS]). Dr
+Harris is supported by an NIH grant (K22 CA193860). Statistical analysis services from Westat (Durham, North
+Carolina) were provided through a support contract from the National Institute of Environmental Health Sciences with
+Social and Scientific Systems (Durham, North Carolina).
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 2 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+Role of the Funder/Sponsor: None of the sponsors had a role in the design and conduct of the study; collection,
+management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision
+to submit the manuscript for publication.
+
+Additional Information: Statistical analyses were replicated by Westat, an independent contractor (Durham, North
+Carolina).
+
+Additional Contributions: We would like to thank the participants and staff of the participating cohorts for their
+valuable contributions as well as the following state cancer registries for their help in the NHS/NHSII: Alabama,
+Arizona, Arkansas, California, Colorado, Connecticut, Deleware, Florida, Georgia, Idaho, Illinois, Indiana, lowa,
+Kentuckyy, Louisiana, Maine, Maryland, Massachusetts, Michigan, Nebraska, New Hampshire, New Jersey, New
+York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina,
+Tennessee, Texas, Virginia, Washington, and Wyoming. The authors acknowledge the Channing Division of Network
+Medicine, Department of Medicine, Brigham and Women’s Hospital, as the home of the NHS and the following
+investigators from the WHI, from the NHLBI, Bethesda, Maryland, Jacques Rossouw, MD, Shari Ludlam, MPH, Joan
+McGowan, PhD, Leslie Ford, MD, and Nancy Geller, PhD; Fred Hutchinson Cancer Research Center, Seattle,
+Washington, Garnet Anderson, PhD, Ross Prentice, PhD, Andrea LaCroix, PhD, and Charles Kooperberg, PhD;
+Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts, JoAnn E. Manson, MD, DrPH ();
+MedStar Health Research Institute/Howard University, Washington, DC, Barbara V. Howard, PhD; Stanford Prevention
+Research Center, Stanford, California, Marcia L. Stefanick, PhD; The Ohio State University, Columbus, Rebecca
+
+Jackson, MD; University of Arizona, Tucson/Phoenix, Cynthia A. Thomson, PhD, RD; University at Buffalo, Buffalo,
+NY, Jean Wactawski-Wende, PhD; University of Florida, Gainesville/Jacksonville, Marian Limacher, MD; University of
+lowa, lowa City/Davenport, Jennifer Robinson, MD MPH; University of Pittsburgh, Pittsburgh, Pennsylvania, Lewis
+Kuller, MD, DrPH; Wake Forest University School of Medicine, Winston-Salem, North Carolina, Sally Shumaker, PhD,
+and Mark Espeland, PhD; and University of Nevada, Reno, Robert Brunner, PhD. None of aforementioned individuals
+received compensation for their role in this article.
+
+Received 2019 Jun 10; Accepted 2019 Nov 16.
+
+Copyright 2020 American Medical Association. All Rights Reserved.
+
+Key Points
+
+Question
+
+Is use of powder in the genital area associated with the risk of developing ovarian cancer?
+
+Findings
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 3 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+In this analysis that pooled data from 4 cohorts with a total of 252 745 women, the hazard ratio for the
+
+association between self-reported ever use vs never use of powder in the genital area and incident
+ovarian cancer was 1.08 (95% CI, 0.99-1.17).
+
+Meaning
+
+Among women from 4 prospective cohorts, there was not a statistically significant association between
+use of powder in the genital area and ovarian cancer, but the study may have been underpowered to
+identify a small increase in risk.
+
+Abstract
+
+Importance
+
+The relationship between use of powder in the genital area and ovarian cancer is not established.
+Positive associations reported in case-control studies have not been confirmed in cohort studies.
+
+Objective
+
+To estimate the association between use of powder in the genital area and ovarian cancer using
+prospective observational data.
+
+Design, Setting, and Participants
+
+Data were pooled from 4 large, US-based cohorts: Nurses’ Health Study (enrollment 1976; follow-up
+1982-2016; n = 81 869), Nurses’ Health Study II (enrollment 1989; follow-up 2013-2017; n= 61 261),
+Sister Study (enrollment 2003-2009; follow-up 2003-2017; n= 40 647), and Women’s Health Initiative
+Observational Study (enrollment 1993-1998; follow-up 1993-2017; n = 73 267).
+
+Exposures
+
+Ever, long-term (>20 years), and frequent (> 1/week) use of powder in the genital area.
+
+Main Outcomes and Measures
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 4 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+The primary analysis examined the association between ever use of powder in the genital area and self-
+reported incident ovarian cancer. Covariate-adjusted hazard ratios (HRs) and 95% Cls were estimated
+using Cox proportional hazards models.
+
+Results
+
+The pooled sample included 252 745 women (median age at baseline, 57 years) with 38% self-reporting
+use of powder in the genital area. Ten percent reported long-term use, and 22% reported frequent use.
+During a median of 11.2 years of follow-up (3.8 million person-years at risk), 2168 women developed
+ovarian cancer (58 cases/100 000 person-years). Ovarian cancer incidence was 61 cases/100 000
+person-years among ever users and 55 cases/100 000 person-years among never users (estimated risk
+difference at age 70 years, 0.09% [95% CI, —0.02% to 0.19%]; estimated HR, 1.08 [95% CI, 0.99 to
+1.17]). The estimated HR for frequent vs never use was 1.09 (95% CI, 0.97 to 1.23) and for long-term
+vs never use, the HR was 1.01 (95% CL, 0.82 to 1.25). Subgroup analyses were conducted for 10
+variables; the tests for heterogeneity were not statistically significant for any of these comparisons.
+While the estimated HR for the association between ever use of powder in the genital area and ovarian
+cancer risk among women with a patent reproductive tract was 1.13 (95% CI, 1.01 to 1.26), the P value
+for interaction comparing women with vs without patent reproductive tracts was .15.
+
+Conclusions and Relevance
+
+In this analysis of pooled data from women in 4 US cohorts, there was not a statistically significant
+association between use of powder in the genital area and incident ovarian cancer. However, the study
+may have been underpowered to identify a small increase in risk.
+
+Introduction
+
+Some women apply powder to their genitals, either through direct application or on underwear, sanitary
+napkins, diaphragms or tampons. Most powder products include some mineral talc. Talc was first
+investigated as a carcinogen based on its relationship to asbestos, which has known carcinogenic
+effects? and may be mined in the same locations. However, all US-based manufacturers of cosmetic talc
+agreed to ban asbestos in 1976, and the International Agency for Research on Cancer has since
+concluded there is only “possible” evidence that perineal use of talc-based body powder may be
+
+carcinogenic.
+
+This classification was largely based on evidence from observational studies. Case-control studies have
+
+reported positive associations between ever use of powder in the genital area and ovarian cancer, with
+an estimated odds ratio of 1.24 in a pooled analysis* and 1.31 in a meta-analysis.2 However, these
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 5 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+findings may be affected by recall bias,°7 and a recent surge in talc-related lawsuits and media
+coverage®” has increased this possibility. Thus, it is crucial to evaluate the talc—ovarian cancer
+
+association using prospective data.
+
+To date, 3 large cohort studies have assessed the association between use of powder in the genital area
+and ovarian cancer risk, with inconsistent results.12-2 However, ovarian cancer is a rare disease
+(1.3% lifetime risk in the United States),!* and individual cohort studies are not sufficiently powered to
+detect modest associations, particularly if restricted to susceptible subgroups, such as women with
+patent reproductive tracts (ie, having an intact uterus and no tubal ligation).
+
+To better examine the association between use of powder in the genital area and risk of ovarian cancer,
+4 large US cohorts that collected the necessary information were identified: the Nurses’ Health Study
+(NHS), Nurses’ Health Study II (NHSII), Sister Study (SIS), and Women’s Health Initiative
+Observational Study (WHI-OS). While associations between genital use of powder and ovarian cancer
+risk have been reported for 3 of these (NHS, WHI-OS, and SIS),!°!!2 the pooled results reported here
+incorporate updated data, including additional cases and longer follow-up.
+
+Methods
+
+Study Sample
+
+The study designs of these 4 US-based cohorts have been described in detail elsewhere.!*!>-!° Briefly,
+the NHS (n= 121 700) enrolled registered nurses living in the United States in 1976, and the NHSII (n
+= 116 429) did the same in 1989. The study protocols were approved by the institutional review boards
+of the Brigham and Women’s Hospital, the Harvard T.H. Chan School of Public Health, and those of
+participating registries, as required. All participants provided written, informed consent. Although the
+initial questionnaires did not ask about genital use of powder, participants were queried about powder
+use on the 1982 NHS and 2013 NHSII questionnaires. We only included follow-up time after the
+questionnaire about use of powder in the genital area was administered and will refer to the
+questionnaire that assessed powder use as baseline to maintain consistent language across all 4 studies.
+
+Genital use of powder was assessed at enrollment for SIS between 2003 and 2009 (n = 50 884) and for
+WHI-OS between 1993 and 1998 (n = 93 676). Women were eligible for SIS if they had a sister
+previously diagnosed with breast cancer but had no personal diagnosis of breast cancer at enrollment.
+Eligible participants in WHI-OS were postmenopausal women who resided near one of 40 clinical
+centers. Both studies were approved by the relevant institutional review boards and all participants
+provided written, informed consent.
+
+Exposure Assessment
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 6 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+The cohorts differed in how they asked participants about use of powder in the genital area (eAppendix
+in the Supplement). NHS participants were asked whether they “ever commonly used talcum, baby
+powder or deodorizing powder” on their “perineal (private) area” (no, <1/week, 1-6 times/week, daily)
+or on sanitary napkins (yes/no). The NHSII questionnaire asked women to report use only if it occurred
+at least weekly in the “genital/rectal area or on sanitary napkins, tampons, or underwear” and if so, for
+how long (<1 year, 1-<10 years, 10-<20 years, 20-<30 years, 30+ years). In SIS, the question
+specifically focused on use of talcum powder and application to “a sanitary napkin, underwear,
+diaphragm, or cervical cap, or directly to the vaginal area” in the last year or at the ages of 10 to 13
+years. Participants were queried about their frequency of use in the year prior to enrollment (never,
+<1/mo, 1-3 times/mo, 1-5 times/week, >5 times/week), as well as use during the ages 10-13 (did not
+use, sometimes, frequently). Women in WHI-OS were asked if they had ever used powder on their
+“private parts (genital areas)” (yes/no) and for how long they had used it (<1 year, 1-4 years, 5-9 years,
+10-19 years, 20+ years), with similar questions for powder use on diaphragms or sanitary pads.
+
+To harmonize across the 4 studies, we defined women as ever vs never users of powder on genital areas.
+For SIS, ever use included use in the last year or at ages 10 to 13 years. We were also able to examine
+long-term use, which we defined as use of powder on genitals for at least 20 years (NHSII and WHI-
+OS) or use at ages 10 to 13 years and also in the last year (SIS). Frequent users were those who
+reported use of powder in the genital area at least once per week (NHS, NHSID), at least once per week
+in the last year, or “frequently” during ages of 10 to 13 years (SIS).
+
+Outcome Assessment
+
+For NHS and NHSIL, follow-up questionnaires were distributed every 2 years, at which point
+participants were asked to report recent cancer diagnoses. Those reporting incident cancers were asked
+to grant access to their medical records, which were reviewed for confirmation of the diagnosis and
+disease details. Additional cases were identified from among deceased participants via National Death
+Index searches. The protocol for SIS was similar, except follow-up questionnaires were collected
+annually and most participants provided pathology reports rather than complete medical records.
+Participants in WHI-OS were also asked to self-report cancers on annual questionnaires, but only
+medically confirmed cases were counted. All 4 studies categorized tumors originating in the ovary,
+peritoneum, and fallopian tubes as ovarian cancers.
+
+For NHS, NHSIL and SIS, delays in the confirmation process and incomplete retrieval of medical
+records meant that not all self-reported cases could be medically confirmed. We ran sensitivity analyses
+
+limited to medically confirmed cases but included all self-reported diagnoses in our main analyses.
+Subtype analyses were limited to medically confirmed cases.
+
+Covariates
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 7 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+All 4 studies had substantial covariate data, which we harmonized into a common set of potential
+confounders or effect modifiers. The following data were included: age at baseline (continuous), race
+(white, black, other), education (<high school, some college, completed college), body mass index
+(BMI [calculated as weight in kilograms divided by height in meters squared], restricted cubic spline),
+parity (nulliparous, | birth, 2 births, >3 births), smoking status (never, former, current), oral
+contraceptive use (ever/never), hormone therapy use (ever/never), tubal ligation status (yes/no),
+hysterectomy status (yes/no), and menopausal status (premenopausal/postmenopausal). Race was self-
+reported by the participant, based on provided categories. It was considered to be an important
+confounder because both ovarian cancer rates and genital powder use vary by race/ethnicity. Only
+baseline levels of these covariates were considered as confounders, though we did consider postbaseline
+changes in menopausal status when assessing effect modification.
+
+Statistical Analyses
+
+We used Cox proportional hazards models with age as the primary time scale to estimate hazard ratios
+(HRs) and 95% CIs measuring the association between genital use of powder and incident ovarian
+cancer, adjusting for potential confounders. We selected potential confounders using a directed acyclic
+graph framework,!“ considering covariates that were possibly related to use of powder in the genital
+area and also ovarian cancer risk.
+
+We excluded women who had ovarian cancer or a bilateral oophorectomy prior to baseline, or who
+were missing information on powder use or age at ovarian cancer diagnosis. For regression analyses,
+we additionally excluded women with missing data for 1 or more covariates. Women underwent follow-
+up from age at baseline until ovarian cancer diagnosis, with censoring at bilateral oophorectomy, end of
+follow-up, or death from causes other than ovarian cancer. An exception was made for WHI-OS
+because postbaseline oophorectomy data were not collected. Participants in SIS and WHI-OS who were
+no longer actively responding to follow-up requests were censored at age of last contact, although their
+follow-up continued via linkage to the National Death Index.
+
+To better control for differences across studies, we allowed the baseline hazard function to vary across
+cohorts by implementing study-stratified Cox models. We tested for study heterogeneity by conducting
+likelihood ratio tests comparing models with and without study x powder interaction terms. For the
+primary analysis of ever vs never powder use and ovarian cancer risk, we additionally calculated the
+effect estimate and the P value for heterogeneity from a random-effects meta-analysis.1® Proportional
+hazards assumptions were tested via likelihood ratio tests of powder x time interaction terms.
+
+Because patency is required for there to be a direct physical pathway between the powder application
+area and the ovaries, we hypothesized a priori that women with patent reproductive tracts would be
+more susceptible to the effects of powder use in the genital area on ovarian cancer. We therefore
+conducted analyses restricted to this subgroup. When estimating the effects of duration of powder use
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 8 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+on ovarian cancer risk, we compared long-term (>20 years) and non—long-term users with never users.
+Similarly, we compared frequent users (>1/week) and nonfrequent users with never users. We
+conducted trend tests using the ordinal forms of these variables.
+
+We also conducted exploratory analyses to examine whether the association between powder use in the
+genital area and ovarian cancer varied by subgroup. These categorizations were selected based on the
+existing literature or hypotheses about potential biological mechanisms and included age, race/ethnicity,
+menopausal hormone therapy use, BMI, and parity. We also considered time-varying menopausal status
+and follow-up time as effect modifiers and more formally compared subgroups defined by hysterectomy,
+tubal ligation and patency status. We evaluated heterogeneity across strata of each potential effect
+modifier by conducting likelihood ratio tests of the interaction between that factor and powder use in
+the genital area.
+
+For analyses limited to medically confirmed cases of ovarian cancer, we censored unconfirmed cases at
+their self-reported age of diagnosis. For type-specific analyses, the medically confirmed cases were
+further divided by invasiveness status (invasive vs borderline), tumor location (epithelial ovarian,
+peritoneal, or fallopian tube), or histotype (serous, endometroid, mucinous, clear-cell, or other). For an
+alternative histotype analysis, we defined high-grade serous as grades 2 to 4 serous or grades 3 to 4
+endometroid tumors.12 We estimated the HRs for each set of subtypes using joint Cox proportional
+hazards models,” utilizing likelihood ratio tests to compare model fit for models that did and did not
+allow the main-effect estimates to differ by subtype. These test results are reported as P values for
+heterogeneity.
+
+In a sensitivity analysis, we attempted to isolate participants who were possibly exposed to asbestos-
+contaminated talc by limiting analysis to women in WHI-OS and NHS, most of whom were born before
+1945. In the age-adjusted and fully adjusted models, we additionally estimated cumulative risk of
+ovarian cancer by age 70 years and assessed differences in absolute risk among ever vs never users of
+powder in the genital area using the Breslow method.24
+
+Statistical tests were 2-sided, and a P value less than .05 was considered statistically significant.
+Because of the potential for type I error due to multiple comparisons, findings from subgroup and
+
+sensitivity analyses should be interpreted as exploratory. All analyses were conducted in SAS 9.4.
+
+Results
+
+After initial exclusions, we had data from 257 044 women, including 2213 who developed incident
+ovarian cancer (Table 1). Use of powder in the genital area was common overall (39%) but varied by
+cohort with 53% of participants reporting ever use in WHI-OS, 41% in NHS, 27% in SIS, and 26% in
+NHSIL Long-term use was reported by 16% in WHI-OS and by 6% in both SIS and NHSIL,; frequent
+use was reported by 27% in NHS, 26% in NHSIL, and 7% in SIS.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 9 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+After further excluding women with missing covariates (<3% of all participants), 2168 participants
+with ovarian cancer (1884 medically confirmed) and 250577 without ovarian cancer remained. Most
+NHS and WHI-OS participants were born between 1915 and 1944 and most NHSII and SIS
+participants were born in 1945 or later (eTable 1 in the Supplement), and there appeared to be a
+generational trend in use of powder in the genital area, with older cohorts more likely to report use.
+Overall, this was a highly educated group (most completed college) and most participants were white
+(84%-98% of each cohort). Compared with never users, ever users of powder in the genital area were
+more likely to be black (6% vs 3%; eTable 2 in the Supplement), to be obese (26% vs 19%), or to have
+had a hysterectomy (22% vs 18%), and less likely to have used oral contraceptives (57% vs 64%).
+
+A total of 2168 women developed ovarian cancer (58 cases per 100 000 person-years; Table 2).
+Consistent with mean age at enrollment, incidence was highest in WHI-OS (63 cases per 100 000
+person-years) and lowest in NHSII (34 cases per 100 000 person-years). In the pooled sample,
+estimated crude cumulative incidence of ovarian cancer at age 70 years was 1.3%, with higher risk
+among participants in NHS (1.3%) and SIS (1.4%) than in NHSII (0.7%) or WHI-OS (0.9%).
+
+Considering all 4 cohorts, the estimated incidence of ovarian cancer was 61 per 100 000 person-years
+among ever users and 55 among never users. The estimated adjusted cumulative risk of ovarian cancer
+by age 70 years among unexposed participants was 1.16%, with an estimated covariate-adjusted risk
+difference of 0.09% (95% CI, —0.02% to 0.19%) comparing with those who were exposed. The HR for
+the association between ever powder use and incident ovarian cancer was 1.08 (95% CI, 0.99 to 1.17;
+Table 2). There was no evidence of heterogeneity across cohorts (P value for heterogeneity = .81) and
+no evidence of a proportional hazards assumption violation (P > .99). The estimated HR from the
+random-effects model was 1.07 (95% CL, 0.98 to 1.17; P value for heterogeneity = .71).
+
+When restricted to women with patent reproductive tracts at baseline, the HR was 1.13 (95% CL, 1.01 to
+1.26) and the estimated covariate-adjusted risk difference was 0.15% (95% CI, 0.01% to 0.29%).
+Among women without patent reproductive tracts, the estimated HR was 0.99 (95% CI, 0.86 to 1.15)
+and the P value for heterogeneity comparing the result for women with patency vs without was .15 (
+Figure). The remaining stratified analyses are also presented in the Figure and in eTable 3 in the
+Supplement.
+
+The covariate-adjusted risk difference for long-term (>20 years) vs never use was 0.01% (95% CI,
+—0.21% to 0.24%), and the HR was 1.01 (95% CI, 0.82 to 1.25; P value for trend = .57; Table 3). The
+covariate-adjusted risk difference for frequent use (>1/week) vs none was 0.10% (95% CI, —0.05% to
+0.25%), and the HR was 1.09 (95% CL, 0.97 to 1.23; dose-response P value for trend =.20). The
+covariate-adjusted risk difference for the association between frequent powder use and ovarian cancer
+among women with patent reproductive tracts was 0.22% (95% CI, 0.02% to 0.42%), and the HR was
+1.19 (95% CI, 1.03 to 1.37; P value for trend = .03).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 10 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+When the outcome was limited to medically confirmed cases, the HR was attenuated (Table 4; HR, 1.05
+[95% CI, 0.96 to 1.16] for ever use vs never use). There were no notable differences in estimates by
+invasive status, tumor location, or histotype. This was also true for analyses limited to women with
+patent reproductive tracts (eTable 4 in the Supplement). When limited to the older cohorts (NHS and
+WHI-OS), the estimated pooled HR was 1.09 (95% CI, 0.99 to 1.19) for ever use vs never use. The
+estimated HR from the young cohorts (NHSII and SIS) was 0.97 (95% CI, 0.75 to 1.26).
+
+Discussion
+
+In this pooled analysis of 4 large US cohorts, there was no statistically significant association between
+self-reported use of powder in the genital area and risk of ovarian cancer. There were no clear dose-
+response trends for duration and frequency of powder use in the genital area in relation to ovarian
+cancer risk. Although the study was underpowered to detect small changes in risk, this is, to our
+knowledge, the largest study of this topic to date, and it is believed that no other large prospective
+cohorts have collected data on powder exposure in the genital area.
+
+One of the primary drivers of research on genital use of talc-based products and ovarian cancer has
+been the potential link between talc and asbestos, which can occur together in nature. In an analysis
+limited to the older cohorts in which women may have started using powder before the asbestos ban of
+1976, the estimated effect remained consistent, with no association observed in the younger cohorts.
+However, it was recently suggested that some products may have contained asbestos after 1976,
+meaning that there may not be a clearly defined time period in which talc-based products did or did not
+contain asbestos.22 Further, although most cosmetic powder products include some quantity of mineral
+talc,! the percentage varies widely,* and exposure to asbestos (through talc) would also depend on the
+type of product used and the method of application (eg, underwear vs diaphragm).
+
+By irritating epithelial ovarian tissue or fallopian tubes™ directly, powder could induce an
+inflammatory response even in the absence of asbestos. This could set off a cascade of increased
+oxidative stress levels, DNA damage, and cell division, all of which could contribute to
+carcinogenesis.?> In this analysis, there was a possible positive association among women with patent
+reproductive tracts (no history of hysterectomy or tubal ligation), although because the association was
+not significantly different from that observed in women with nonpatent reproductive tracts, this finding
+should be considered only exploratory and hypothesis generating. This observation lends support to the
+hypothesis that powder with or without asbestos could irritate and inflame the reproductive tract, as
+patency | is required for there to be a direct physical path between the genitals and the fallopian | tubes or
+ovaries.2° The positive relationships between pelvic inflammatory disease and ovarian cancer~ and
+chlamydia infection and ovarian cancer® also support an inflammation-mediated mechanism, as does
+
+the inverse association between regular aspirin use and ovarian cancer.”
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 11 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+One of the main concerns about previous case-control studies on this topic is the possibility for recall
+bias, which would result if case participants were more likely to report using powder than control
+participants. As highlighted by Trabert,2 the African American Cancer Epidemiology Study® found
+evidence supporting this phenomenon. Based on the timing of the first major talc lawsuits,>2
+Schildkraut et al stratified their results by year of interview (earlier than 2014 vs 2014 or later),
+observing that among women interviewed earlier, ever use of powder in the genital area was less-
+strongly associated with ovarian cancer (odds ratio [OR], 1.19 [95% CI, 0.87 to 1.63]) than among
+women interviewed later (OR, 2.91 [95% CI, 1.70 to 4.97]). This difference was driven by an increase
+in the reported prevalence of powder use among case participants (36.5% vs 51.5% of women
+interviewed early vs later), while self-reported use in the control partcipants remained stable (34.0% vs
+34.4%). However, most of the case-control studies that have examined this association recruited well
+before 2014, and a large pooled analysis published in 2013 reported an OR of 1.24 (95% CI, 1.15 to
+1.33).4 For the current analysis, recall bias was avoided by excluding those with preexisting ovarian
+cancer.
+
+The strengths of this study were large sample size and long follow-up time. The main analysis included
+2168 ovarian cancer cases that developed over 3.8 million person-years. This far exceeds a previous
+meta-analysis of the published NHS, SIS, and WHI-OS results (890 cases over 182 000 person-years).2
+However, power to investigate links to peritoneal or fallopian tube cancers or histotypes other than
+serous was still low. Improvements in the classification of tumor types may contribute new insights,
+especially for fallopian tube cancers, which may be the true point of origin for most serous ovarian
+cancers.~* This and other subtype-specific associations should be better examined in the future.
+
+Limitations
+
+This study has several limitations. First, the included cohorts varied widely in how they assessed
+exposure, particularly the duration and frequency of powder use. There was no evidence of between-
+study heterogeneity for either the pooled or meta-analysis models of ever use vs never use, but because
+the 2 largest studies were missing information on duration (NHS) and frequency (WHI-OS) of powder
+use, the dose-response analyses are underpowered compared with the main results and thus difficult to
+interpret. Second, use of powder in the genital area could not be assessed as a time-varying factor, as
+none of the 4 studies collected data on use after baseline.
+
+Third, specific exposure windows could not be examined, nor could type of powder used or patency
+status at time of powder use. As previously noted, information on powder exposure is typically more
+limited in cohort studies compared with case-control studies, particularly with respect to dose and
+duration of use.*! Therefore, ongoing or future cohort studies should collect detailed information on
+these topics.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990816/?report=printable Page 12 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+Fourth, as with all observational studies, residual confounding is possible. All 4 included studies
+recorded detailed information on many potential confounders, which were harmonized across cohorts
+and adjusted for in multivariable models. However, residual confounding may still be present if the
+harmonized covariates did not adequately capture the relationship or if any key confounders were
+missing.
+
+Fifth, the study may have limited generalizability. All 4 cohorts included predominately white, well-
+educated women, approximately half of whom had a BMI of less than 25, which could raise concerns
+about generalizability, especially since these factors may be related to powder use. However, these
+studies have high retention rates and accurate self-reported data, increasing internal validity.
+
+Sixth, confounding by indication is another potential limitation, and it would occur if women with other
+underlying conditions that were associated with ovarian cancer were also more likely to use powder in
+the genital area. It is also possible that if powder use is associated with increased risk of other
+gynecologic conditions (eg, fibroids, ovarian cysts), it can affect whether women receive
+oophorectomies, hysterectomies, or tubal ligations and alter their risk of developing ovarian cancer.
+Seventh, because tests to confirm patency were not performed, it is possible that not all women
+categorized as having a patent reproductive tract in this analysis had truly patent tubes.
+
+Conclusions
+
+In this analysis of pooled data from women in 4 US cohorts, there was not a statistically significant
+association between self-reported use of powder in the genital area and incident ovarian cancer.
+However, the study may have been underpowered to identify a small increase in risk.
+
+Notes
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 13 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+Supplement.
+
+eTable 1. Characteristics at Baseline by Cohort
+eTable 2. Characteristics at Baseline by Use of Powder in the Genital Area
+
+eTable 3. Stratified Pooled Hazard Ratios (HRs) and 95% (CIs) for the Association Between Long-Term or Frequent Use of
+
+Powder in the Genital Area and Risk of Ovarian Cancer
+
+eTable 4. Pooled Hazard Ratios and 95% CIs in Patent Women for Medically Confirmed Cases Overall and by Tumor
+
+Invasiveness, Location, and Histotype
+
+eAppendix. Questions Related to Use of Powder/Talc in the Genital Area in Each of the 4 Cohorts
+
+References
+
+1. World Health Organization International Agency for Research on Cancer JARC Monographs on the Evaluation of
+Carcinogenic Risks to Humans: Carbon Black, Titanium Dioxide, and Talc; vol 93; 2010. http://publications.iare.fr/111
+Accessed December 10, 2019.
+
+2. International Agency for Research on Cancer IARC Monographs: Arsenic, Metals, Fibres, and Dusts; vol 100C; 2012.
+http://publications.iare.fr/120 Accessed December 10, 2019.
+
+3. Fiume MM, Boyer I, Bergfeld WF, et al.. Safety assessment of talc as used in cosmetics. Int J Toxicol. 2015;34(1)
+(suppl):66S-1298. doi: 10.1177/1091581815586797 [PubMed: 26227892] [CrossRef: 10.1177/1091581815586797]
+
+4. Terry KL, Karageorgi S, Shvetsov YB, et al.; Australian Cancer Study (Ovarian Cancer); Australian Ovarian Cancer Study
+Group; Ovarian Cancer Association Consortium . Genital powder use and risk of ovarian cancer: a pooled analysis of 8525
+cases and 9859 controls. Cancer Prev Res (Phila). 2013;6(8):811-821. doi: 10.1158/1940-6207.CAPR- 13-0037 [PMCID:
+PMC3766843] [PubMed: 23761272] [CrossRef: 10.1158/1940-6207.CAPR- 13-0037]
+
+5. Penninkilampi R, Eslick GD. Perineal talc use and ovarian cancer: a systematic review and meta-analysis. Epidemiology.
+2018;29(1):41-49. doi: 10.1097/EDE.0000000000000745 [PubMed: 28863045] [CrossRef: 10.1097/EDE.0000000000000745]
+
+6. Schildkraut JM, Abbott SE, Alberg AJ, et al.. Association between body powder use and ovarian cancer: the African
+American Cancer Epidemiology Study (AACES). Cancer Epidemiol Biomarkers Prev. 2016;25(10):1411-1417. doi:
+10.1158/1055-9965.EPI-15-1281 [PMCID: PMC5050086] [PubMed: 27197282] [CrossRef: 10.1158/1055-9965.EPI-15-1281]
+
+7. Trabert B. Body power and ovarian cancer risk—what is the role of recall bias? Cancer Epidemiol Biomarkers Prev.
+2016;25(10):1369-1370. doi: 10.1158/1055-9965.EPI- 16-0476 [PMCID: PMC5125013] [PubMed: 27697794] [CrossRef:
+10.1158/1055-9965.EPI- 16-0476]
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 14 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+8. Hsu T. Johnson & Johnson told to pay $4.7 billion in baby powder lawsuit. New York Times. July 12, 2018.
+https://www.nytimes.com/2018/07/12/business/johnson-johnson-talcum-powder.html. Accessed December 10, 2019.
+
+9. McGinley L. Does talcum powder cause ovarian cancer? Washington Post. August 23, 2017.
+https://www.washingtonpost.com/news/to-your-health/wp/2017/08/23/does-talcum-powder-cause-ovarian-cancer-experts-are-
+
+divided/?utm_term=.9342d83c278f. Accessed December 10, 2019.
+
+10. Gertig DM, Hunter DJ, Cramer DW, et al.. Prospective study of talc use and ovarian cancer. J Natl Cancer Inst.
+2000;92(3):249-252. doi: 10.1093/jnci/92.3.249 [PubMed: 10655442] [CrossRef: 10.1093/jnci/92.3.249]
+
+11. Houghton SC, Reeves KW, Hankinson SE, et al.. Perineal powder use and risk of ovarian cancer. J Natl Cancer Inst.
+2014;106(9):dju208. doi: 10.1093/jnci/dju208 [PMCID: PMC4200058] [PubMed: 25214560] [CrossRef: 10.1093/jnci/dju208]
+
+12. Gonzalez NL, O’Brien KM, D’Aloisio AA, Sandler DP, Weinberg CR. Douching, talc use, and risk of ovarian cancer.
+Epidemiology. 2016;27(6):797-802. doi: 10.1097/EDE.0000000000000528 [PMCID: PMC5141580] [PubMed: 27327020]
+[CrossRef: 10.1097/EDE.0000000000000528]
+
+13. National Cancer Institute Surveillance, Epidemiology, and End Results Program Cancer stat facts: ovarian cancer.
+
+https://seer.cancer.gov/statfacts/html/ovary.html. Accessed December 10, 2019.
+
+14. Bao Y, Bertoia ML, Lenart EB, et al.. Origin, methods, and evolution of the three nurses’ health studies. Am J Public
+Health. 2016;106(9):1573-1581. doi: 10.2105/AJPH.2016.303338 [PMCID: PMC498 1810] [PubMed: 27459450] [CrossRef:
+10.2105/AJPH.2016.303338]
+
+15. Sandler DP, Hodgson ME, Deming-Halverson SL, et al.; Sister Study Research Team . The Sister Study: baseline methods
+and participant characteristics. Environ Health Perspect. 2017;125(12):127003. doi: 10.1289/EHP1923 [PMCID:
+PMC5963586] [PubMed: 29373861] [CrossRef: 10.1289/EHP1923]
+
+16. Anderson GL, Cummings SR, Freedman LS, et al.; The Women’s Health Initiative Study Group . Design of the Women’s
+Health Initiative clinical trial and observational study. Control Clin Trials. 1998;19(1):61-109. doi: 10.1016/S0197-
+2456(97)00078-0 [PubMed: 9492970] [CrossRef: 10.1016/S0197-2456(97)00078-0]
+
+17. Greenland S, Pearl J, Robins JM. Causal diagrams for epidemiologic research. Epidemiology. 1999;10(1):37-48. doi:
+10.1097/00001648-199901000-00008 [PubMed: 9888278] [CrossRef: 10.1097/00001648-199901000-00008]
+
+18. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986;7(3):177-188. doi: 10.1016/0197-
+2456(86)90046-2 [PubMed: 3802833] [CrossRef: 10.1016/0197-2456(86)90046-2]
+
+19. Peres LC, Cushing-Haugen KL, Kobel M, et al.. Invasive epithelial ovarian cancer survival by histotype and disease stage. J
+Natl Cancer Inst. 2019;111(1):60-68. doi: 10.1093/jnci/djy07 1 [PMCID: PMC6335112] [PubMed: 29718305] [CrossRef:
+10.1093/jnci/djy07 1]
+
+20. Xue X, Kim MY, Gaudet MM, et al.. A comparison of the polytomous logistic regression and joint cox proportional
+hazards models for evaluating multiple disease subtypes in prospective cohort studies. Cancer Epidemiol Biomarkers Prev.
+2013;22(2):275-285. doi: 10.1158/1055-9965.EPI-12-1050 [PMCID: PMC3565022] [PubMed: 23292084] [CrossRef:
+10.1158/1055-9965.EPI- 12-1050]
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 15 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+21. Breslow NE. Discussion of professor Cox’s paper. J R Stat Soc Ser A (Statistics Soc). 1972;34:216. doi: 10.1111/).2517-
+6161.1972.tb00900.x [CrossRef: 10.1111/j.2517-6161.1972.tb00900.x]
+
+22. Rabin RC, Hsu T. Johnson & Johnson feared baby powder’s possible asbestos link for years. New York Times. December
+14, 2018. https://www.nytimes.com/2018/12/14/business/baby-powder-asbestos-johnson-johnson.html. Accessed December 10,
+2019.
+
+23. Zazenski R, Ashton WH, Briggs D, et al.. Talc: occurrence, characterization, and consumer applications. Regul Toxicol
+
+Pharmacol. 1995;21(2):218-229. doi: 10.1006/rtph.1995.1032 [PubMed: 7644709] [CrossRef: 10.1006/rtph.1995.1032]
+
+24. Erickson BK, Conner MG, Landen CN Jr. The role of the fallopian tube in the origin of ovarian cancer. Am J Obstet
+Gynecol. 2013;209(5):409-414. doi: 10.1016/j.ajog.2013.04.019 [PMCID: PMC393745 1] [PubMed: 23583217] [CrossRef:
+10.1016/j.ajog.2013.04.019]
+
+25. Ness RB, Cottreau C. Possible role of ovarian epithelial inflammation in ovarian cancer. J Natl Cancer Inst.
+
+1999;91(17):1459-1467. doi: 10.1093/jnci/91.17.1459 [PubMed: 10469746] [CrossRef: 10.1093/jnci/91.17.1459]
+
+26. Henderson WJ, Joslin CA, Turnbull AC, Griffiths K. Talc and carcinoma of the ovary and cervix. J Obstet Gynaecol Br
+Commonw. 1971;78(3):266-272. doi: 10.1111/j.1471-0528.1971.tb00267.x [PubMed: 5558843] [CrossRef: 10.1111/j.1471-
+0528.1971.tb00267.x]
+
+27. Rasmussen CB, Jensen A, Albieri V, Andersen KK, Kjaer SK. Is pelvic inflammatory disease a risk factor for ovarian
+cancer? Cancer Epidemiol Biomarkers Prev. 2017;26(1):104-109. doi: 10.1158/1055-9965.EPI-16-0459 [PubMed: 27672055]
+[CrossRef: 10.1158/1055-9965.EPI- 16-0459]
+
+28. Trabert B, Waterboer T, Idahl A, et al.. Antibodies against chlamydia trachomatis and ovarian cancer risk in two
+independent populations. J Natl Cancer Inst. 2019;111(2):129-136. doi: 10.1093/jnci/djy084 [PMCID: PMC6376903]
+[PubMed: 29790947] [CrossRef: 10.1093/jnci/djy084]
+
+29. Trabert B, Poole EM, White E, et al.. Analgesic use and ovarian cancer risk: an analysis in the Ovarian Cancer Cohort
+Consortium. J Natl Cancer Inst. 2019;111(2):137-145. doi: 10.1093/jnci/djy 100 [PMCID: PMC63769 10] [PubMed:
+29860330] [CrossRef: 10.1093/jnci/djy 100]
+
+30. Hsu T. Risk on all sides as 4800 women sue over Johnson’s baby powder and cancer. New York Times. September 28,
+2017. https://www.nytimes.com/2017/09/28/business/johnson-and-johnson-baby-talcum-powder-lawsuits.html. Published
+Accessed December 10, 2019.
+
+31. Wentzensen N, Wacholder S. Talc use and ovarian cancer: epidemiology between a rock and a hard place. J Natl Cancer
+
+Inst. 2014;106(9):9-10. doi: 10.1093/jnci/dju260 [PubMed: 25214563] [CrossRef: 10.1093/jnci/dju260]
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 16 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+Figures and Tables
+
+Table 1.
+
+Description of Participating Cohorts"
+
+Nurses’ Health Nurses’ Health Sister Women’s Health _— Total
+
+Study? Study II¢ Study’ Initiative
+Sample size 81 869 61 261 40647 73267 257 044
+Included study period 1982-2016 2013-2017 2003- 1993-2017 1982-
+2017 2017
+Follow-up time, median (IQR), y 33.2 (20.0- 3.8 (3.5-3.9) 9.6 (8.4- 17.4 (8.7-19.9) 11.2 (3.9-
+34.0) 11.1) 21.0)
+Age range at assessment for use of powder — 35-62 48-68 35-77 49-81 35-81
+in the genital area, y
+Age, median (IQR), y 48 (42-55) 58 (54-62) 55 (48-63 (57-69) 57 (50-
+61) 62)
+All ovarian cancer cases 1258 76 220 659 2213
+Medically confirmed ovarian cancer cases 1055 37 172 659 1923
+Powder use in genital area, %
+Ever 41 26 27 53 39
+Long-term 6 6 16 10
+Frequent 27 26 7 22
+
+Abbreviation: IQR, interquartile range.
+
+4More detailed descriptions of the Nurses’ Health Study and the Nurses’ Health Study II can be found in Bao et al!4; in Sandler
+et al!5 for the Sister Study; and in Anderson et al! for the Women’s Health Initiative.
+
+Powder use in the genital area was assessed in the 1982 follow-up questionnaire, not at study baseline. Participants were
+excluded if they did not respond to the question regarding use of powder in the genital area (n = 28 584), had ovarian cancer
+prior to responding to the 1982 questionnaire (n = 174), underwent a bilateral oophorectomy at the time of the 1982
+questionnaire (n = 10 896), or did not contribute any person-time after the 1982 questionnaire (n = 4). Frequent use was defined
+as use of powder in the genital area at least once per week. Women who underwent bilateral oophorectomy during follow-up
+were censored at age of oophorectomy. Follow-up was complete through June 1, 2016.
+
+“Use of powder in the genital area was assessed in the 2013 follow-up questionnaire, not at study baseline. Participants were
+excluded if they did not respond to the question regarding use of powder in the genital area (n = 41 141), had ovarian cancer
+
+prior to 2013 (n = 287), underwent a bilateral oophorectomy at the time of the 2013 questionnaire (n = 13 739), or did not
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 17 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+contribute any person-time after the 2013 questionnaire (n = 1). Frequent use was defined as use of powder in the genital area at
+least once per week. Long-term use was defined as use of powder in the genital area for 20 years or longer. Because data were
+reported in 2-year cycles, we did not censor for oophorectomy that occurred after 2013. Follow-up was complete through June
+1, 2017.
+
+‘Participants were excluded if they withdrew from the study (n = 2), had ovarian cancer prior to baseline or unclear ovarian
+cancer status at baseline (n = 225), underwent a bilateral oophorectomy prior to baseline (n = 9009), or did not respond to any
+of the questions regarding use of powder in the genital area (n = 1001). Ever powder use was defined as use of powder in the
+genital area during the 12 months prior to baseline or at ages 10 to 13 years. Long-term use was defined as use of powder in the
+genital area at ages 10 to 13 years and within the last 12 months. Frequent use was defined as use of powder in the genital area
+at least once per week (during the last 12 months) or frequently (as termed in the questionnaire) between ages 10 and 13 years.
+Women who underwent a bilateral oophorectomy during follow-up were censored at age of oophorectomy. Follow-up was
+complete through September 15, 2017.
+
+Participants were excluded if they did not complete the questionnaire regarding use of powder in the genital area (n = 342),
+had ovarian cancer before baseline (n = 641) or unknown cancer status before baseline (n = 890), underwent a bilateral
+oophorectomy at baseline (n = 18 183), or had no follow-up information (n = 353). Long-term use was defined as use of powder
+in the genital area for 20 years or longer. Postbaseline oophorectomies were not recorded. Follow-up was complete through
+
+February 28, 2017.
+
+Table 2.
+
+Study-Specific and Pooled Risk Differences, Hazard Ratios, and 95% CIs for the Association Between Ever Use of Powder
+
+in the Genital Area and Risk of Ovarian Cancer
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 18 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC
+
+Cohort Person- No. No. With Incidence Prevalence of Age- Adjusted Adjusted
+Years, Without Ovarian per 100000 Powder Useinthe Adjusted RD HR
+No. at Ovarian Cancer* _ Person- Genital Area, %* RD (95% (95% (95%
+Risk? Cancer* Years* Without With CD, %? Ch, %> = Ch
+Ovarian Ovarian
+Cancer Cancer
+Ever Used Powder in the Genital Area, All Women
+NHS 2130797 79055 1224 57 41 42 0.06 (—0.07 0.09 .07
+to 0.20) (—0.06 (0.95 to
+to 0.24) .20)
+NHSII 220658 60464 76 34 26 24 —0.10 —0.15 0.81
+(—0.44 to (-0.49 (0.47 to
+0.24) to 0.20) .38)
+SIS 376212 40193 219 58 27 29 0.14 (—0.28 0.03 02
+to 0.56) (-0.39 (0.76 to
+to 0.45) .38)
+WHI-OS_ 1038039 70865 649 63 53 56 0.09 (—0.05 0.09 ll
+to 0.23) (—0.05 (0.95 to
+to 0.24) .30)
+Pooled 3765706 250577 2168 58 38 44 0.08 (—0.03 0.09 .08
+estimate to 0.19) (—0.02 (0.99 to
+to0.19) 1.17)4
+Ever Used Powder in the Genital Area, Women With Patent Reproductive Tracts®
+NHS 1408991 52191 850 60 41 44 0.22 (0.03 0.22 16
+to 0.40) (0.02 to (1.01 to
+0.42) .33)
+
+6/6/23, 5:50 PM
+
+Abbreviations: HR, hazard ratio; NHS, Nurses’ Health Study; NHSII, Nurses’ Health Study II; RD, risk difference; SIS, Sister
+
+Study; WHI-OS, Women’s Health Initiative Observational Study.
+
+*Data are reported among participants with complete covariate information. Includes all self-reported cases.
+
+bReferent group is never users. Effect estimates and HRs for women with patency were adjusted for race/ethnicity (white, black,
+
+other), education (< high school, some college, >college graduate), body mass index (calculated as weight in kilograms divided
+
+by height in meters squared, [restricted cubic spline]), parity (0, 1, 2, >3 births), ever use for oral contraceptives, tubal ligation
+
+(yes or no), hysterectomy status (yes or no), menopausal status (premenopausal or postmenopausal), and ever use of hormone
+therapy. Only effect estimates were adjusted for tubal ligation status (yes or no) and for hysterectomy status (yes or no). All
+
+covariates indicate status at time of assessment for use of powder in the genital area. RDs were calculated based on estimated
+
+cumulative incidence of ovarian cancer by age 70 years.
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable
+
+Page 19 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+“Pooled estimates were calculated using Cox proportional hazards models, stratified by study to allow for the baseline hazard
+functions to vary by cohort, and adjusted for the same covariates as the study-specific models.
+
+The P value for heterogeneity between studies was .81 and was calculated using the likelihood ratio test for study by main-
+effects interaction term.
+
+©Patency indicates having a uterus (ie, no hysterectomy) and no tubal ligation.
+
+‘The P value for heterogeneity between studies was .73 and was calculated using the likelihood ratio test for study by main-
+
+effects interaction term.
+
+Figure.
+
+Subgroup Analyses for the Association Between Ever Use of Powder in the Genital Area and Risk of Ovarian Cancer,
+Pooled Hazard Ratios (HRs) and 95% CIs*
+
+*Adjusted for study, race/ethnicity (white, African American, other), education (<high school, some college, >college
+graduate), body mass index (BMI [calculated as weight in kilograms divided by height in meters squared], restricted cubic
+spline), parity (0, 1, 2, >3 births), ever use of oral contraceptives, tubal ligation (yes or no), hysterectomy (yes or no),
+menopausal status (premenopausal or postmenopausal), ever hormone therapy use. When estimating HRs within a strata of a
+
+variable, that variable was not included in the adjustment set.
+bNumbers include only participants with complete covariate information.
+
+“Effect estimate based on menopausal status updated throughout follow-up. Of the 2168 cases, 165 were diagnosed while the
+
+participant was premenopausal and 2003 occurred after menopause.
+4A mong women who were postmenopausal at baseline.
+
+©Calculated as weight in kilograms divided by height in meters squared.
+
+Table 3.
+
+Study-Specific and Pooled Risk Differences, Hazard Ratios, and 95% CIs for the Association Between Duration and
+
+Frequency of Powder Use in the Genital Area and Risk of Ovarian Cancer
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable
+
+Page 20 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+Powder Person- Noncases* Ovarian Incidence Prevalence of Age- Adjusted Adjusted P Value for
+
+Use in Time Cancer per100 Powder Use*, % Adjusted RD HR Heteorgene
+
+the at Cases" 000 Noncases Cases RD O5% (95% (95%
+
+Genital Risk* Person- Ch, %* ~=Ch, %* = CH
+
+Area Years*
+
+All Women
+
+Long-
+
+term
+
+use®
+
+NHSII = 220 60 464 76 34 6 5 -0.11 —0.18 0.76
+658 (-0.71 (-0.77 (0.27 to
+
+to0.49) to0.41) 2.10)
+
+SIS 376 40 193 219 58 6 5 —0.07 0.21 0.85
+
+212 (-0.85 (-0.95 (0.46 to
+
+to0.70) t00.53) 1.57)
+
+WHI- 1034 70 598 649 63 16 15 0.04 0.05 .06
+Os 453 (-0.16 (-0.15 (0.85 to
+to 0.24) to 0.26) 34)
+Pooled 1631 171 255 944 58 10 12 0.01 0.01 O01 90
+estimate! 323 (-0.24 (-0.21 (0.82 to
+
+to0.25) 00.24) 1.25)
+
+Used
+powder
+>1/wk
+
+NHS 2130 79055 1224 57 27 29 0.12 0.14 1.11
+
+Abbreviations: HR, hazard ratio; NHS, Nurses’ Health Study; NHSII, Nurses’ Health Study II; RD, risk difference; SIS, Sister
+Study; WHI-OS, Women’s Health Initiative Observational Study.
+
+*Data are reported among participants with complete covariate information. Includes all self-reported cases.
+
+>Referent group is never users. Effect estimates are adjusted for race/ethnicity (white, black, other), education (<high school,
+some college, >college graduate), body mass index (calculated as weight in kilograms divided by height in meters squared,
+[restricted cubic spline]), parity (0, 1, 2, >3 births), ever use of oral contraceptives, tubal ligation (yes or no), hysterectomy
+status (yes or no), menopausal status (premenopausal or posmenopausal), and ever use of hormone therapy. All covariates
+indicate status at time of assessment for use of powder in the genital area. RDs were calculated based on estimated cumulative
+incidence of ovarian cancer by age 70 years.
+
+‘Likelihood ratio test for study by main-effects interaction term.
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 21 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC
+
+6/6/23, 5:50 PM
+
+4A test of the B coefficient for considering frequency (no use, nonfrequent use, frequent use) or duration (no use, non-long-term
+
+use, long-term use) of powder as an ordinal variable.
+
+©See eAppendix in the Supplement for study-specific definitions of long-term use.
+
+‘Pooled estimates were calculated using Cox proportional hazard models, stratified by study to allow for the baseline hazard
+
+functions to vary by cohort, and adjusted for the same covariates as the study-specific models.
+
+®Patency indicates having a uterus (ie, no hysterectomy) and no tubal ligation.
+
+Table 4.
+
+Pooled Hazard Ratios and 95% CIs Among Medically Confirmed Cases Overall and by Tumor Invasiveness, Location, and
+
+Histotype
+
+No. of Cases* Hazard Ratio (95% CI)
+
+Ever Use”
+
+Long-term Use?
+
+Frequent Use
+
+All medically-confirmed cases
+
+Invasiveness level
+Invasive only
+
+Borderline
+
+P value for heterogeneity°
+Tumor location
+
+Epithelial ovarian
+Fallopian tube
+
+Peritoneal
+
+P value for heterogeneity°
+Histotype
+
+Serous
+
+Endometroid
+
+Mucinous
+
+Clear Cell
+
+Other
+
+P value for heterogeneity®
+Histotype II4
+
+High-grade serous
+
+Low-grade serous
+
+Othae
+
+1884
+
+1538
+
+139
+
+1536
+52
+103
+
+1038
+157
+102
+68
+357
+
+732
+29
+
+41
+
+1.05 (0.96-1.16)
+
+1.07 (0.97-1.19)
+1.09 (0.79-1.52)
+90
+
+1.08 (0.97-1.19)
+1.19 (0.69-2.08)
+1.12 (0.76-1.65)
+92
+
+1.10 (0.97-1.25)
+1.15 (0.83-1.58)
+1.03 (0.69-1.54)
+1.17 (0.73-1.89)
+0.97 (0.79-1.20)
+86
+
+1.08 (0.93-1.25)
+1.41 (0.70-2.82)
+
+1 ATK 1 :10N
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable
+
+1.03 (0.83-1.28)
+
+1.08 (0.85-1.37)
+1.31 (0.59-2.92)
+Al
+
+1.08 (0.85-1.37)
+2.18 (0.46-10.3)
+1.18 (0.33-4.16)
+58
+
+1.02 (0.75-1.38)
+1.14 (0.49-2.63)
+1.35 (0.58-3.15)
+1.01 (0.35-2.95)
+1.24 (0.79-1.94)
+97
+
+0.99 (0.70-1.40)
+1.25 (0.17-9.25)
+
+1 1A (NA 1 4AV
+
+1.05 (0.92-1.20)
+
+1.08 (0.93-1.25)
+0.98 (0.60-1.60)
+31
+
+1.09 (0.94-1.27)
+1.35 (0.69-2.65)
+0.76 (0.44-1.31)
+02
+
+1.07 (0.90-1.28)
+1.17 (0.76-1.79)
+1.27 (0.73-2.22)
+1.11 (0.55-2.24)
+0.93 (0.68-1.27)
+76
+
+1.05 (0.84-1.31)
+0.70 (0.23-2.09)
+
+1 AA (N79 1290
+
+Page 22 of 23
+Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC 6/6/23, 5:50 PM
+
+“Includes ever-use analysis; limited to women with complete covariate information.
+
+bReferent group is never users. Adjusted for study, race/ethnicity (white, African-American, other), education (<high school,
+some college, >college graduate), body mass index (calculated as weight in kilograms divided by height in meters squared,
+[restricted cubic spline]), parity (0, 1, 2, >3 births), ever use of oral contraceptives, tubal ligation (yes or no), hysterectomy
+status (yes or no), menopausal status (premenopausal or postmenopausal), ever use of hormone therapy.
+
+“From competing risks model: likelihood ratio test of model that allows effect estimate to vary by subtype compared with a
+model that does not.
+
+High-grade serous indicates grades 2 to 4 serous or grades 3 to 4 endometroid; low-grade serous indicates grade | serous.
+
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC6990816/?report=printable Page 23 of 23
