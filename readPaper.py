@@ -23,9 +23,9 @@ def pdf_to_tables(file_path):
 
 
 # PDF filepaths
-path = '/Users/talhaehtasham/Desktop/MedThread Demo/MedThreadDemo/Papers/'
-parsed_path = '/Users/talhaehtasham/Desktop/MedThread Demo/MedThreadDemo/ParsedPapers/'
-paper_title = 'Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC.pdf'
+path = 'DIR w/ Papers'
+parsed_path = 'Empty DIR for Parsed Papers'
+paper_title = 'Association of Powder Use in the Genital Area With Risk of Ovarian Cancer - PMC.pdf' # Example
 file_path = path + paper_title
 
 # Extract text 
