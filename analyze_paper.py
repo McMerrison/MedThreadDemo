@@ -1,8 +1,7 @@
 import openai
 
 # Set your API key
-SECRET = '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'
-openai.api_key = SECRET
+openai.api_key = 'KEY'
 
 
 messages = [ {"role": "system", "content": 
